@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+   text-align: center;
+   font-size: 150%;
+   color: blueviolet;
+}
+
+p {
+    text-align: center;
+    font-size: 150%;
+}
+
+#Harpia {
+margin-left: 33%;
+width: 35%;
+}
+
+#Gavião {
+    margin-left: 33%;
+    width: 35%;
+    }
+
+    #PiuPiu {
+        margin-left: 33%;
+        width: 35%;
+        }
+        
